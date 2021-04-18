@@ -1,4 +1,3 @@
-Flow of System
 The streaming company StreamIt Ltd. offers movies, series and shows through the internet. 
 It has agreements with content creators and owners and streams their content. Periodically (for example, monthly) StreamIt Ltd. pays content suppliers one time payment for the opportunity to stream certain content and royalty for the content which was purchased by its customers. To maintain business relationships with content providers StreamIt Ltd. collects information about them: name of the person or business, address, contact data, bank account data, which content they own. 
 Customers of the StreamIt Ltd. are located all around the world. To see the content customers must first register. When register, they input their data like first and last name, day of birth, gender, country of living, and contact data as phone and email. 
